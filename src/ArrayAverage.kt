@@ -1,6 +1,6 @@
 fun main(){
 
-    val arr= arrayOf(1, 2, 3, 4, 5)
+    val arr= arrayOf(1,2,3,4,5)
     var sum=0
     if (arr.isNotEmpty()) {
         for (element in arr) {

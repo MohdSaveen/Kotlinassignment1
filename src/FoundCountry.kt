@@ -13,6 +13,7 @@ fun main(){
             println("Country Found")
         }else{
             println("Not Found")
+            break
         }
     }
 }
